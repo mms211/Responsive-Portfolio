@@ -31,6 +31,8 @@ h2 {
     color: #4aaaa5;
     margin-top: 0px;
     margin-bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
 }
 
 /* About Me photo styling */
@@ -48,6 +50,12 @@ h2 {
 .aboutme {
     font-size: 20px;
     line-height: 1.5;
+}
+
+/* Contact Me */
+
+.btn {
+    background-color: #4aaaa5;
 }
 
 /* Footer */
