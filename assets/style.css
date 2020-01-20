@@ -104,6 +104,10 @@ h2 {
     line-height: 1.5;
 }
 
+.about-me-link {
+    font-size: 25px;
+}
+
 /* Portfolio */
 
 .port-pic {
