@@ -107,7 +107,7 @@ h2 {
 /* Portfolio */
 
 .port-pic {
-    border: none;
+    border: solid;
     text-align: center;
     position: relative;
     margin: 16px;
